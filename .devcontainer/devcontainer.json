@@ -36,9 +36,9 @@
 			]
 		}
 	},
-	// volume
-	"mounts": ["source=${localWorkspaceFolder}/src,target=/home/vscode/src,type=bind,consistency=cached"],
-	"workspaceFolder": "/home/vscode/src",
+	// // volume
+	// "mounts": ["source=${localWorkspaceFolder}/src,target=/home/vscode/src,type=bind,consistency=cached"],
+	// "workspaceFolder": "/home/vscode/src",
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
